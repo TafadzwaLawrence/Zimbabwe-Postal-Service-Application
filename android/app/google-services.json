@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "880048569191",
+    "project_id": "godiknowyougotthisthankyou",
+    "storage_bucket": "godiknowyougotthisthankyou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880048569191:android:e3c9b14342ff5bb02d8dc2",
+        "android_client_info": {
+          "package_name": "com.example.freelance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkxM7AfOvcxrUvW0syGHVLYCcv_m6y5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880048569191-0vskpv8hkc0hofq9cq9v8i4nr8b8vl25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liljobmarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880048569191:android:806c248c0fe2c6e42d8dc2",
+        "android_client_info": {
+          "package_name": "com.example.lastone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkxM7AfOvcxrUvW0syGHVLYCcv_m6y5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880048569191-0vskpv8hkc0hofq9cq9v8i4nr8b8vl25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liljobmarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880048569191:android:be50e6c8214cfeb42d8dc2",
+        "android_client_info": {
+          "package_name": "com.example.liljobmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkxM7AfOvcxrUvW0syGHVLYCcv_m6y5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880048569191-0vskpv8hkc0hofq9cq9v8i4nr8b8vl25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liljobmarket"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880048569191:android:0b15f22921147b362d8dc2",
+        "android_client_info": {
+          "package_name": "com.example.postvehicles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkxM7AfOvcxrUvW0syGHVLYCcv_m6y5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880048569191-ngosnootc2e8bqtv5jagtq5igqohgtbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880048569191-0vskpv8hkc0hofq9cq9v8i4nr8b8vl25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.liljobmarket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
